@@ -1,0 +1,6 @@
+img2table==1.2.3
+imutils==0.5.4
+numpy==1.25.1
+opencv_contrib_python==4.10.0.84
+opencv_python==4.8.1.78
+opencv_python_headless==4.8.1.78
